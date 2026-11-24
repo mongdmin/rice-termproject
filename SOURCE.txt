@@ -1,0 +1,7 @@
+Rice (Cammeo and Osmancik) [Dataset]. (2019). UCI Machine Learning Repository.
+DOI: https://doi.org/10.24432/C5MW4Z
+Source: https://archive.ics.uci.edu/dataset/545/rice+cammeo+and+osmancik
+Creators: Ilkay Cinar and Murat Koklu
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+Changes: Converted original ARFF to CSV, decoded class labels as UTF-8. No rows or features removed.
